@@ -8,7 +8,7 @@ All of these reports, with the exception of Case A, had a grade over 4.50/5.00.
 
 ## How I have organized it
 In the directory "/Cases", naturally I present all the reports.
-Followingly, in "/Dashboard" I present the dashboard that the Professors made available throughout the course. By opening the file "Dashboard SGSI 2020 - Google Drive.html" you can check the grades of every student, including the grades of my reports. 
+Followingly, in "/Dashboard" I present the dashboard that the Professors made available throughout the course. By opening the file "dashboard" you can check the grades of my reports. 
 
 ## About the case studies.
 The reports are order by their respective week, Case A through Case I.
