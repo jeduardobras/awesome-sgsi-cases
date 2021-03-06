@@ -3,7 +3,7 @@
 My grade in this course was 20/20. 
 
 ## What is this repository about?
-In this repository I make available all my weekly reports who helped me such grade.
+In this repository I make available all my weekly reports which helped me get such grade.
 All of these reports, with the exception of Case A, had a grade over 4.50/5.00.
 
 ## How I have organized it
