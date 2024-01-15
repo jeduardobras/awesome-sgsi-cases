@@ -1,6 +1,8 @@
 # GSI Weekly and Final Cases
 
 My grade in this course was 20/20. 
+I ended up getting invited to be one of the teaching assistants for this courses because of such an achievement. 
+These cases were done on the 2nd semester of 2019/2020.
 
 ## What is this repository about?
 In this repository I make available all my weekly reports which helped me get such grade.
